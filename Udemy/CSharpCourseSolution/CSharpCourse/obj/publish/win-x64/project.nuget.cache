@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wW621AtyKgJvwNntlHZ0ghSGySAxVpKwswUPnYuovclMresxug27dauznDTl/4PjEh2GFnOwFMTZ+blDdkP2QQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\С#\\Udemy\\CSharpCourseSolution\\CSharpCourse\\CSharpCourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.1\\microsoft.netcore.app.runtime.win-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.1\\microsoft.aspnetcore.app.runtime.win-x64.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

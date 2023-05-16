@@ -1,0 +1,15 @@
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\bin\Debug\net7.0\B_ControlFlow.exe
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\bin\Debug\net7.0\B_ControlFlow.deps.json
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\bin\Debug\net7.0\B_ControlFlow.runtimeconfig.json
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\bin\Debug\net7.0\B_ControlFlow.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\bin\Debug\net7.0\B_ControlFlow.pdb
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.csproj.AssemblyReference.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.AssemblyInfoInputs.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.AssemblyInfo.cs
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.csproj.CoreCompileInputs.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\refint\B_ControlFlow.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.pdb
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\B_ControlFlow.genruntimeconfig.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\B_ControlFlow\obj\Debug\net7.0\ref\B_ControlFlow.dll

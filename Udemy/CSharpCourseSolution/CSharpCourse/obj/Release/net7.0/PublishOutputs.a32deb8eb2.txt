@@ -1,0 +1,5 @@
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\publish\CSharpCourse.exe
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\publish\CSharpCourse.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\publish\CSharpCourse.deps.json
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\publish\CSharpCourse.runtimeconfig.json
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\publish\CSharpCourse.pdb

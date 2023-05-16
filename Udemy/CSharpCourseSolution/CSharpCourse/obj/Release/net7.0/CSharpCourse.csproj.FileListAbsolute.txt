@@ -1,0 +1,15 @@
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\CSharpCourse.exe
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\CSharpCourse.deps.json
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\CSharpCourse.runtimeconfig.json
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\CSharpCourse.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\bin\Release\net7.0\CSharpCourse.pdb
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.csproj.AssemblyReference.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.AssemblyInfoInputs.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.AssemblyInfo.cs
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.csproj.CoreCompileInputs.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\refint\CSharpCourse.dll
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.pdb
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\CSharpCourse.genruntimeconfig.cache
+D:\Programming\С#\Udemy\CSharpCourseSolution\CSharpCourse\obj\Release\net7.0\ref\CSharpCourse.dll
